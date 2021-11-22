@@ -1,0 +1,122 @@
+[
+    {
+        "name": "aries",
+        "plant": ["Бегония", "Азалия", "Герань"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/begoniya.jpg", 
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/azaliya.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/geran.jpg"
+        ]
+    },
+    
+    {
+        "name": "taurus",
+        "plant": ["Фиалка", "Каланхоэ", "Вереск"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/fialka.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/kalanhoe.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/veresk.jpg"
+        ]
+    },
+    
+    {
+        "name": "gemini",
+        "plant": ["Пальма", "Папоротник", "Плющ"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/palma.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/paporotnik.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/plush.jpg"
+        ]
+    },
+    
+    {
+        "name": "cancer",
+        "plant": ["Фуксия", "Алоэ", "Агава американская"],
+        "plantImg": [
+        "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/fuksia.jpg",
+        "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/aloe.jpg",
+        "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/agava.jpg"
+    ]
+    },
+    
+    {
+        "name": "leo",
+        "plant": ["Бальзамин", "Герань", "Роза китайская"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/balzamin.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/geran.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/rozakitay.jpg"
+
+        ]
+    },
+    
+    {
+        "name": "virgo",
+        "plant": ["Роициссус", "Монстера", "Драцена"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/roicissus.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/monstera.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/dracena.jpg"
+        ]
+    },
+    
+    {
+        "name": "libra",
+        "plant": ["Орхидея", "Хризантема", "Гортензия"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/archideya.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/chizantema.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/gortenziya.jpg"
+        ]
+    },
+    
+    {
+        "name": "scorpio",
+        "plant": ["Олеандр обыкновенный", "Кактус", "Крестовник"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/oleandr.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/kaktus.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/krestovnik.jpg"
+        ]
+    },
+    
+    {
+        "name": "sagittarius",
+        "plant": ["Лимон", "Бонсай", "Фикус"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/limon.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/bonsay.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/ficus.jpg"
+        ]
+    },
+    
+    {
+        "name": "capricorn",
+        "plant": ["Лавр", "Толстянка", "Ливистона"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/lavr.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/tolstyanka.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/livistona.jpg"
+        ]
+    },
+    
+    {
+        "name": "aquarius",
+        "plant": ["Маранта", "Абутилон", "Пуансетия"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/maranta.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/abutilon.jpeg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/puansetiya.jpg"
+        ]
+    },
+    
+    {
+        "name": "pisces",
+        "plant": ["Орхидея", "Гиацинт", "Алоказия"],
+        "plantImg": [
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/archideya.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/giacint.jpg",
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/alokaziya.jpg"
+        ]
+    }
+    ]
