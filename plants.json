@@ -3,7 +3,7 @@
         "name": "aries",
         "plant": ["Бегония", "Азалия", "Герань"],
         "plantImg": [
-            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/begoniya.jpg", 
+            "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/begonia.jpg", 
             "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/azaliya.jpg",
             "https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/plants/geran.jpg"
         ]
