@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/bfb197f3cd.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Nunito:wght@700&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="style.css">
+    <title>🌿PlantShop🌿</title>
+</head>
+
+<body>
+
+    <header class="header wrapper">
+        <img src="https://raw.githubusercontent.com/polly-cloud/practice-plantShop-/main/logo.png" alt="main logo"
+            class="header__logo" width="50" height="65">
+
+        <nav class="menubar">
+            <button class="btn-search menubar__btn"><i class="fas fa-search"></i></button>
+            <button class="btn-cart menubar__btn"><i class="fas fa-shopping-basket"></i></button>
+            <button class="btn-enter menubar__btn"><i class="fas fa-home"></i> Войти</button>
+        </nav>
+
+        <div class="header__greet">
+            <img src="img/header-pic.jpg" alt="horo-plants" class="header__greet-pic" width="500" height="333">
+            <section class="header__greet-block">
+                <h1 class="header__greet-heading">Цветочный гороскоп</h1>
+                <p class="header__greet-text main-text">
+                    Астрологи считают, что комнатные растения могут не только украсить и разнообразить интерьер, но и
+                    сделать счастливее нашу жизнь. Чтобы эффект от наших зеленых подопечных был максимально заметным и
+                    благоприятным, стоит выбирать конкретные растения, подходящие для вашего знака зодиака.
+                    Выбирайте цветок, который поможет вам в этом!
+
+                </p>
+            </section>
+        </div>
+    </header>
+
+    <main class="main wrapper">
+        <section class="gallery">
+            <h2 class="gallery-heading">Найди свой цветок!</h2>
+            <p class="gallery-text main-text">Просто выбери свой знак.</p>
+
+            <div class="gallery__block">
+
+                <select id="select">
+                    <option value="null" disabled selected>Выбрать знак...</option>
+                    <option value="aries">Овен</option>
+                    <option value="taurus">Телец</option>
+                    <option value="gemini">Близнецы</option>
+                    <option value="cancer">Рак</option>
+                    <option value="leo">Лев</option>
+                    <option value="virgo">Дева</option>
+                    <option value="libra">Весы</option>
+                    <option value="scorpio">Скорпион</option>
+                    <option value="sagittarius">Стрелец</option>
+                    <option value="capricorn">Козерог</option>
+                    <option value="aquarius">Водолей</option>
+                    <option value="pisces">Рыбы</option>
+                </select>
+
+                <div class="select-box">
+                    <h3 class="select-name"></h3>
+                    <button class="select-btn select-back"><i class="fas fa-angle-left"></i></button>
+                    <div class="select-picbox">
+                        <img src="#" alt="flower" class="select-pic invisible">
+                    </div>
+                    <button class="select-btn select-forward"><i class="fas fa-angle-right"></i></button>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+
+<script src="gallery.js"></script>
+</body>
+
+</html>
