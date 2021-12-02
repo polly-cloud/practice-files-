@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "name": "Kaktus",
+        "price": 15,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant01.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Aloe",
+        "price": 13,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant02.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Fluffy Kaktus",
+        "price": 20,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant03.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Sukkulent",
+        "price": 16,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant04.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Prikly Plant",
+        "price": 13,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant05.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Tall Kaktus",
+        "price": 19,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant06.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Lily",
+        "price": 28,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant07.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "Sukkulent Kit",
+        "price": 40,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant08.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "Banana",
+        "price": 36,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant09.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Monstera",
+        "price": 33,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant10.jpg"
+    },
+
+    {
+        "id": 11,
+        "name": "Zebra Plant",
+        "price": 18,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant11.jpg"
+    },
+
+    {
+        "id": 12,
+        "name": "Lavr Plant",
+        "price": 24,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia eaque dolorem quo temporibus libero, deserunt iure. Quam, dolorum.",
+        "pic": "images/plants/plant12.jpg"
+    }
+]
